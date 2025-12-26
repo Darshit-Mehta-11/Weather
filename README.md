@@ -74,7 +74,7 @@ Visit `http://localhost:3000` to use the app.
 
 ## 👨‍💻 Author
 
-**Created by:** *Your Name*  
+**Created by:** *Darshit Mehta*  
 This project is a part of my React learning path and is open for improvements and feedback!
 
 ---
