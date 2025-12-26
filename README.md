@@ -64,13 +64,13 @@ npm start
 
 Visit `http://localhost:3000` to use the app.
 
----
+----
 
 ## 📸 Screenshots
 
 > _Coming Soon!_ (Add images or GIFs of the UI if available)
 
----
+----
 
 ## 👨‍💻 Author
 
